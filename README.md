@@ -1,19 +1,12 @@
 ![Portfolio Ideas banner image](https://user-images.githubusercontent.com/62628408/164301391-1bd07d5f-d94d-4032-860e-9357c1dd1d6a.png)
-<a href="https://github.com/Evavic44/portfolio-ideas/graphs/contributors"><img src="https://img.shields.io/badge/Powered_by-Contributions-8D65C5?style=for-the-badge&logo=github&logoColor=white" alt="portfolio ideas"></a>
 
 <div>
-<img align="right" src="https://user-images.githubusercontent.com/62628408/164751730-44e858d9-747f-48d5-9608-d255e01eacef.png" width="60px">
+<img align="right" src="https://user-images.githubusercontent.com/62628408/203671459-3c139f1e-31fa-43af-80b2-e3a14ce7e646.svg" width="60px">
 <h1 align="center">Portfolio Ideas</h1> 
 <p>A curation of awesome portfolio ideas for developers and designers to draw inspirations when they decide to create their own. Want to add yours or someone else's, feel free to raise a PR to add them. Inspired by <a href="https://github.com/GorvGoyl/Clone-Wars">clone Wars</a>, <a href="https://hashnode.com/post/30-web-developer-portfolios-to-inspire-you-cknfx6wdg069kxws1bjjv8mhw), and my personal struggle">30 web developer ideas to inspire you</a>, and my personal struggles :).</p>
 </div>
   
 Read about how this project started: <a href="https://eke.hashnode.dev/portfolio-ideas-an-open-source-repository-for-inspiration">Portfolio Ideas - An open-source repository for inspiration</a>
-
-<div align="center">
-<h2>📢 Announcement! 📢</h2>
-<p>We are hosting portfolio-ideas to an official site and we need your input on what color and logo to use.</p>
-<a href="https://github.com/Evavic44/portfolio-ideas/discussions/182">Vote Here</a>
-</div>
 
 ## Contribute
 
@@ -24,8 +17,6 @@ Read about how this project started: <a href="https://eke.hashnode.dev/portfolio
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <div>Want to add a portfolio to this list? read the <a href="https://github.com/Evavic44/portfolio-ideas/blob/main/CONTRIBUTING.md">guidelines</a> on how to do that.</div>
-
-<h1 align="center">Portfolio</h1>
  
 <!-- === ⭐ PORTFOLIO LINE START ⭐ === -->
 
@@ -170,7 +161,7 @@ Read about how this project started: <a href="https://eke.hashnode.dev/portfolio
 | Michael Kolesidis     | ![screenshot](https://user-images.githubusercontent.com/15524442/201610419-230433bb-2a0e-47e5-a78b-c212a0a07553.png)                         | [michaelkolesidis.com](https://michaelkolesidis.com/)                               | [GitHub](https://github.com/michaelkolesidis/michaelkolesidis.com)       | TypeScript, p5.js, Sass, Yarn                                                                     |
 | Piyush Goyani         | ![PiyushGoyaniPortfolio](https://user-images.githubusercontent.com/18528418/202102781-b1d7826f-d401-481b-afeb-d3d54f42ba7d.png)              | [piyushgoyani.thesourcepedia.org](https://piyushgoyani.thesourcepedia.org)          | None                                                                     | VueJS, Gridsome, TailwindCSS, Firebase                                                            |
 | Vanessa Santana       | ![VanessaPortfolio](https://user-images.githubusercontent.com/52542645/202289197-bdc535a8-ebbf-4416-a997-21cdb73e9cee.png)                   | [nessajs.com.br](https://www.nessajs.com.br/)                                       | [GitHub](https://github.com/vanessa-dev/nessa.js)                        | HTML, CSS, JavaScript and PHP                                                                     |
-| Mahmoud Elkariouny    | ![protfolio_screenshot](https://user-images.githubusercontent.com/65455064/203590991-00b66db7-492d-46f4-980b-efbacb53a9fa.jpg) | [clear-sleet.surge.sh](https://clear-sleet.surge.sh/) | [GitHub](https://github.com/mahmoudessam820/my_portfolio) | HTML, CSS, JavaScript
+| Mahmoud Elkariouny    | ![protfolio_screenshot](https://user-images.githubusercontent.com/65455064/203590991-00b66db7-492d-46f4-980b-efbacb53a9fa.jpg)               | [clear-sleet.surge.sh](https://clear-sleet.surge.sh/)                               | [GitHub](https://github.com/mahmoudessam820/my_portfolio)                | HTML, CSS, JavaScript                                                                             |
 
 <!-- === ⭐ PORTFOLIO LINE END ⭐ === -->
 
